@@ -2,50 +2,47 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e63f08a2-1700-445f-b6ae-8b294fd8c009" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/task15/task1501/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/task15/task1502/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/task15/task1503/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/task15/task1504/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/task15/task1505/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/task15/task1506/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/task15/task1507/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/task15/task1508/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/task15/task1509/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/task15/task1510/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/task15/task1511/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/task15/task1512/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/task15/task1513/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/task15/task1514/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/task15/task1515/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/task15/task1516/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/task15/task1517/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/task15/task1518/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/task15/task1519/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/task15/task1520/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/task15/task1521/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/task15/task1521/Tree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/task15/task1522/Earth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/task15/task1522/Moon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/task15/task1522/Planet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/task15/task1522/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/task15/task1522/Sun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/task15/task1523/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/task15/task1523/SubSolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/task15/task1524/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/task15/task1525/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/task15/task1525/Statics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/task15/task1526/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/task15/task1527/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/task15/task1528/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/task15/task1529/CanFly.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/task15/task1529/Helicopter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/task15/task1529/Plane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/task15/task1529/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/task15/task1530/DrinkMaker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/task15/task1530/LatteMaker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/task15/task1530/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/task15/task1530/TeaMaker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/task15/task1531/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/task16/task1601/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/task16/task1602/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/task16/task1603/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/task16/task1604/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/task16/task1605/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/task16/task1606/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/task16/task1607/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/task16/task1608/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/task16/task1609/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/task16/task1610/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/task16/task1611/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/task16/task1612/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/task16/task1613/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/task16/task1614/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/task16/task1615/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/task16/task1616/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/task16/task1617/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/task16/task1618/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/task16/task1619/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/task16/task1620/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/task16/task1621/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/task16/task1622/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/task16/task1623/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/task16/task1624/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/task16/task1625/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/task16/task1626/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/task16/task1627/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/task16/task1628/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/task16/task1629/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/task16/task1630/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/task16/task1631/ImageReaderFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/task16/task1631/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/task16/task1631/common/BmpReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/task16/task1631/common/IllegalArgumentException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/task16/task1631/common/ImageReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/task16/task1631/common/ImageTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/task16/task1631/common/JpgReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/task16/task1631/common/PngReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/task16/task1632/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/task16/task1632/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/task16/task1633/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,6 +53,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Interface" />
         <option value="Class" />
       </list>
@@ -79,26 +77,13 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.Solution (4)">
+  <component name="RunManager" selected="Application.Solution (1)">
     <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task15.task1528.Solution" />
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task16.task1633.Solution" />
       <module name="2.JavaCore" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javarush.task.task15.task1528.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task15.task1529.Solution" />
-      <module name="2.JavaCore" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.javarush.task.task15.task1529.*" />
+          <option name="PATTERN" value="com.javarush.task.task16.task1633.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,11 +92,11 @@
       </method>
     </configuration>
     <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task15.task1530.Solution" />
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task16.task1629.Solution" />
       <module name="2.JavaCore" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javarush.task.task15.task1530.*" />
+          <option name="PATTERN" value="com.javarush.task.task16.task1629.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +105,24 @@
       </method>
     </configuration>
     <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task15.task1531.Solution" />
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task16.task1630.Solution" />
       <module name="2.JavaCore" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javarush.task.task15.task1531.*" />
+          <option name="PATTERN" value="com.javarush.task.task16.task1630.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task16.task1631.Solution" />
+      <module name="2.JavaCore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javarush.task.task16.task1631.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,11 +131,11 @@
       </method>
     </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task15.task1527.Solution" />
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task16.task1632.Solution" />
       <module name="2.JavaCore" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javarush.task.task15.task1527.*" />
+          <option name="PATTERN" value="com.javarush.task.task16.task1632.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solution (4)" />
-        <item itemvalue="Application.Solution (3)" />
-        <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.Solution (5)" />
+        <item itemvalue="Application.Solution (4)" />
+        <item itemvalue="Application.Solution (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -193,10 +191,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="24" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1586997075882" />
-    <state x="488" y="72" key="#com.intellij.ide.util.MemberChooser" timestamp="1588381021424">
+    <state x="488" y="72" key="#com.intellij.ide.util.MemberChooser" timestamp="1588833481839">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="488" y="72" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1588381021424" />
+    <state x="488" y="72" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1588833481839" />
     <state x="349" y="0" key="CommitChangelistDialog2" timestamp="1587061939201">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -205,38 +203,38 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="121" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1588157740541" />
-    <state width="1322" height="192" key="GridCell.Tab.0.bottom" timestamp="1588381926855">
+    <state width="1322" height="192" key="GridCell.Tab.0.bottom" timestamp="1588861580103">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="192" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588381926855" />
-    <state width="1322" height="192" key="GridCell.Tab.0.center" timestamp="1588381926855">
+    <state width="1322" height="192" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588861580103" />
+    <state width="1322" height="192" key="GridCell.Tab.0.center" timestamp="1588861580103">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="192" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1588381926855" />
-    <state width="1322" height="192" key="GridCell.Tab.0.left" timestamp="1588381926855">
+    <state width="1322" height="192" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1588861580103" />
+    <state width="1322" height="192" key="GridCell.Tab.0.left" timestamp="1588861580103">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="192" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1588381926855" />
-    <state width="1322" height="192" key="GridCell.Tab.0.right" timestamp="1588381926855">
+    <state width="1322" height="192" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1588861580103" />
+    <state width="1322" height="192" key="GridCell.Tab.0.right" timestamp="1588861580103">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="192" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1588381926855" />
-    <state width="1322" height="216" key="GridCell.Tab.1.bottom" timestamp="1588371585903">
+    <state width="1322" height="192" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1588861580103" />
+    <state width="1322" height="216" key="GridCell.Tab.1.bottom" timestamp="1588841241427">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="216" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588371585903" />
-    <state width="1322" height="216" key="GridCell.Tab.1.center" timestamp="1588371585902">
+    <state width="1322" height="216" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588841241427" />
+    <state width="1322" height="216" key="GridCell.Tab.1.center" timestamp="1588841241427">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="216" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1588371585902" />
-    <state width="1322" height="216" key="GridCell.Tab.1.left" timestamp="1588371585902">
+    <state width="1322" height="216" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1588841241427" />
+    <state width="1322" height="216" key="GridCell.Tab.1.left" timestamp="1588841241427">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="216" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1588371585902" />
-    <state width="1322" height="216" key="GridCell.Tab.1.right" timestamp="1588371585902">
+    <state width="1322" height="216" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1588841241427" />
+    <state width="1322" height="216" key="GridCell.Tab.1.right" timestamp="1588841241427">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="216" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1588371585902" />
+    <state width="1322" height="216" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1588841241427" />
     <state x="275" y="99" key="Vcs.Push.Dialog.v2" timestamp="1587061971484">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
